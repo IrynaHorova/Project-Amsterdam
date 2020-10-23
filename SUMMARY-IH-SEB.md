@@ -1,6 +1,9 @@
+# Project-Amsterdam
+Project-Amsterdam DAFT Iryna and Sebastien
+
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# Welcome to the Barcelona Project!
+# Welcome to the Amsterdam Project!
 
 ## Content
 - [Project Description](#project-description)
@@ -15,18 +18,15 @@
 - [Asking Questions](#asking-questions)
 
 ## Project Description
-In this project you will present an analysis of a topic of your choosing related to the city of Barcelona.
+In this project we aim to answer the following questions:
+* Impact of festivals on surrounding area economy and at which point of a festival size the impact becomes significant
 
-The topics are:  
-* Transportation
-* Urban environment
-* Population
-* Administration
-* Economics & business
+The topics we would like to cover:  
+* Shops sales
+* Transport traffic
+* Hotel occupancy
+* Airport passenger traffic
 
-In this project you will work in **teams**. Your team must come to an agreement with the other teams so that each of you work on a different topic.
-
-Possible datasets you can use are suggested in the ```Datasets``` section below.
 
 ## Project Goals
 During this project you will:
@@ -35,7 +35,7 @@ During this project you will:
 * Ask yourself interesting questions related to your topic.
 * Search and explore data that will help you answer your questions.
 * Perform a simple analysis and identify interesting insights.
-* Learn something about Barcelona!
+* Learn something about Amsterdam!
 
 ## Data Workflow
 In this project you will focus on learning and developing Data Wrangling skills.
@@ -152,6 +152,7 @@ Analytic questions require you to think about the *how* of answering a question.
 This is one of the most interesting parts of the process and you will be doing it for the rest of the bootcamp (and most likely for the rest of your career as a data analyst).
 
 ### Resources
-* [Barcelona Open Data](https://opendata-ajuntament.barcelona.cat/en/)
-* [Catalonia Government Open Data](http://governobert.gencat.cat/ca/dades_obertes/)
-* [Spanish Government Open Data](https://datos.gob.es/)
+* [Gemeente Amsterdam - Data and Information](http://data.amsterdam.nl)
+
+
+
