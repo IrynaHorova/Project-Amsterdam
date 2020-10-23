@@ -27,9 +27,6 @@ The topics we would like to cover:
 * Hotel occupancy
 * Aurport passenger traffic
 
-In this project you will work in **teams**. Your team must come to an agreement with the other teams so that each of you work on a different topic.
-
-Possible datasets you can use are suggested in the ```Datasets``` section below.
 
 ## Project Goals
 During this project you will:
