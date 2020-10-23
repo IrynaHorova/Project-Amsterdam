@@ -18,14 +18,14 @@ Project-Amsterdam DAFT Iryna and Sebastien
 - [Asking Questions](#asking-questions)
 
 ## Project Description
-In this project you will present an analysis of a topic of your choosing related to the city of Amsterdam.
+In this project we aim to answer the following questions:
+* Impact of festivals on surrounding area economy and at which point of a festival size the impact becomes significant
 
-The topics are:  
-* Transportation
-* Urban environment
-* Population
-* Administration
-* Economics & business
+The topics we would like to cover:  
+* Shops sales
+* Transport traffic
+* Hotel occupancy
+* Aurport passenger traffic
 
 In this project you will work in **teams**. Your team must come to an agreement with the other teams so that each of you work on a different topic.
 
