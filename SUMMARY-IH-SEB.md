@@ -153,6 +153,6 @@ This is one of the most interesting parts of the process and you will be doing i
 
 ### Resources
 * [Gemeente Amsterdam - Data and Information](http://data.amsterdam.nl)
-* [Trello Board](https://trello.com/b/v7RclC6d/project-amsterdam-sebastien-iryna
+* [Trello Board](https://trello.com/b/v7RclC6d/project-amsterdam-sebastien-iryna)
 
 
