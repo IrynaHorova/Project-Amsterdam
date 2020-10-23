@@ -153,6 +153,6 @@ This is one of the most interesting parts of the process and you will be doing i
 
 ### Resources
 * [Gemeente Amsterdam - Data and Information](http://data.amsterdam.nl)
-* [Trello board](https://trello.com/b/v7RclC6d/project-amsterdam-sebastien-iryna)
+* [Catalonia Government Open Data](http://governobert.gencat.cat/ca/dades_obertes/)
 
 
