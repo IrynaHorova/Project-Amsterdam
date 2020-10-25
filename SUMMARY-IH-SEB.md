@@ -19,10 +19,15 @@ Project-Amsterdam DAFT Iryna and Sebastien
 
 ## Project Description
 In this project we aim to answer the following questions:
-* Impact of festivals on surrounding area economy and at which point of a festival size the impact becomes significant
+* Does investment in sport positively impact % of people actively participating in sport
+* Does investment in sport positively impact general population health
+* Does investment in sport impact labour market
+
+DELETE
+Impact of festivals on surrounding area economy and at which point of a festival size the impact becomes significant
 
 The topics we would like to cover:  
-* Shops sales
+* # and % of people participating in sport
 * Transport traffic
 * Hotel occupancy
 * Airport passenger traffic
