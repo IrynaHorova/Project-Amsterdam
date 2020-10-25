@@ -24,9 +24,9 @@ In this project we aim to answer the following questions:
 * Does investment in sport impact labour market
 
 The topics we would like to cover:  
-* # and % of people participating in sport
+* Number and percent of people participating in sport
 * Deaths from cardiovascular issues
-* % and # people employed in sport
+* Number and percent people employed in sport
 
 
 ## Project Goals
