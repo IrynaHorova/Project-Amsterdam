@@ -23,14 +23,10 @@ In this project we aim to answer the following questions:
 * Does investment in sport positively impact general population health
 * Does investment in sport impact labour market
 
-DELETE
-Impact of festivals on surrounding area economy and at which point of a festival size the impact becomes significant
-
 The topics we would like to cover:  
 * # and % of people participating in sport
-* Transport traffic
-* Hotel occupancy
-* Airport passenger traffic
+* Deaths from cardiovascular issues
+* % and # people employed in sport
 
 
 ## Project Goals
