@@ -56,8 +56,7 @@ The **mandatory** deliverables that you must turn in are:
 
 ## Datasets
 
-* [Public Subsidy Register Amsterdam]
-(https://data.amsterdam.nl/datasets/yvlbMxqPKn1ULw/openbaar-subsidieregister-amsterdam/)
+* [Public Subsidy Register Amsterdam](https://data.amsterdam.nl/datasets/yvlbMxqPKn1ULw/openbaar-subsidieregister-amsterdam/)
 
 ## Presentation
 The presentation time limit is **10 minutes**! After all the presentations are over, there will be a 5-minutes break. After the break, we will hold a short debate about the projects.
