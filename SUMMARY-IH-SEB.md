@@ -43,7 +43,7 @@ In this project you will focus on learning and developing Data Wrangling skills.
 
 ## Requirements & Deliverables
 The **mandatory** requirements that this project needs to satisfy are:
-* The project must be planned. That is why creating a Kanban board is important. You can find a template for Trello [here](https://trello.com/b/usAykV9K/project-2-barcelona). Remember that you **CAN'T CODE** until your project is planned.
+* The project must be planned. [Trello Board](https://trello.com/b/v7RclC6d/project-amsterdam-sebastien-iryna)
 * Your repository must be clean and organized; this means that it must include a *.gitignore* file and a README file and also have a functional file structure.
 * Your README file must clearly include which topic you chose and which are the questions you would like to find an answer to.
 * Also, mind that **NO PLOTTING IS ALLOWED IN THIS PROJECT**.
@@ -77,6 +77,5 @@ Our suggestion is to include at least the following slides in your presentation 
 
 ### Resources
 * [Gemeente Amsterdam - Data and Information](http://data.amsterdam.nl)
-* [Trello Board](https://trello.com/b/v7RclC6d/project-amsterdam-sebastien-iryna)
 
 
