@@ -7,16 +7,13 @@ Project-Amsterdam DAFT Iryna and Sebastien
 
 ## Content
 - [Project Description](#project-description)
-- [Data Workflow](#data-workflow)
-- [Requirements & Deliverables](#requirements-&-deliverables)
-- [Mentoring](#mentoring)
-- [Schedule](#schedule)
+- [Deliverables](#deliverables)
 - [Datasets](#datasets)
-- [Presentation](#presentation)
-- [Tips & Tricks](#tips-&-tricks)
-- [Asking Questions](#asking-questions)
+- [Resources](#resources)
+
 
 ## Project Description
+
 In this project we aim to answer the following questions:
 * Does investment in sport positively impact % of people actively participating in sport
 * Does investment in sport positively impact general population health
@@ -41,11 +38,6 @@ The **mandatory** requirements that this project needs to satisfy are:
 * [Sport participation in Amsterdam](https://data.amsterdam.nl/datasets/Dtm5T_yxgQ96dw/sport-in-amsterdam/)
 * [Museum and concert halls visitors](https://data.amsterdam.nl/datasets/WVyXoattyGTw6A/cultuur-in-amsterdam/)
 
-## Presentation
-The presentation time limit is **10 minutes**! After all the presentations are over, there will be a 5-minutes break. After the break, we will hold a short debate about the projects.
 
-
-### Resources
+## Resources
 * [Gemeente Amsterdam - Data and Information](http://data.amsterdam.nl)
-
-
